@@ -1,5 +1,8 @@
 # Herramientas_Computacionales
 Herramientas computacionales el arte de la programacion
+Este proyecto esta programado en python usando las librerias cv2 y imutils.
+El programa tiene la funcion de poner un filtro en la cara de la persona, el cual en este caso pone lentes.
+El codigo esta basado en el video y pagina de como hacer filtro de instagram del canal OMES.
 
 
 Referencias:
