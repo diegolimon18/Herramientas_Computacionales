@@ -6,6 +6,9 @@ import imutils
 cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 #Inserted image for the video
+#image = cv2.imread('gorro_navidad.png', cv2.IMREAD_UNCHANGED)
+#image = cv2.imread('tiara.png', cv2.IMREAD_UNCHANGED)
+#image = cv2.imread('2021.png', cv2.IMREAD_UNCHANGED)
 image = cv2.imread('lentes.png', cv2.IMREAD_UNCHANGED)
 
 #Face Detector
