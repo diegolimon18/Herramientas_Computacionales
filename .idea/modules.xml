@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Herramientas_Computacionales.iml" filepath="$PROJECT_DIR$/.idea/Herramientas_Computacionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SemanaTec.iml" filepath="$PROJECT_DIR$/.idea/SemanaTec.iml" />
     </modules>
   </component>
 </project>
