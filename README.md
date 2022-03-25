@@ -1,3 +1,8 @@
+
+Diego Armando Limón de León A01638247
+Barbara Nicole Vidal Sandoval A01635233
+Enrique Israel Delgado Joaquin A01638258
+
 # Herramientas_Computacionales
 Herramientas computacionales el arte de la programacion
 Este proyecto esta programado en python usando las librerias cv2 y imutils.
